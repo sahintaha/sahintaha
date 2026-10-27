@@ -1,17 +1,23 @@
-<h1 align="left">Hi 👋, I'm Taha</h1>
-<h3 align="left">I am a first-year student in the Computer Technology and Information Systems bachelor program.</h3>
+# Hi, I'm Taha Şahin 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/sahintaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sahintaha" height="30" width="40" /></a>
-<a href="https://twitter.com/tahasn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahasn_" height="30" width="40" /></a>
-<a href="https://kaggle.com/tahasahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tahasahin" height="30" width="40" /></a>
-<a href="https://instagram.com/tahasn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahasn_" height="30" width="40" /></a>
-<a href="https://discord.gg/tahasahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tahasahin" height="30" width="40" /></a>
-</p>
+Software developer based in **Istanbul**. I like building software that touches the real world: circuit boards on a test bench, phones talking over Bluetooth without the internet, and machine learning for sound, music and language.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+[![Website](https://img.shields.io/badge/tahasahin.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tahasahin.com)
+[![Email](https://img.shields.io/badge/contact%40tahasahin.com-1F6FEB?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:contact@tahasahin.com)
+[![Email](https://img.shields.io/badge/tahasahin2%40hotmail.com-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:tahasahin2@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/sahintaha/)
+[![X](https://img.shields.io/badge/@tahasn__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tahasn_)
+[![Instagram](https://img.shields.io/badge/@tahasn__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tahasn_/)
 
-<h3 align="left">Support:</h3>
-<p><a align="left" href="https://www.buymeacoffee.com/tahasahin"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tahasahin" /></a></p><br><br>
+## Projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**PCBA Test Station**](https://github.com/sahintaha/pcba-test-station) | Functional test station for assembled circuit boards: scans serial numbers, runs test recipes over Web Serial, records PASS/FAIL with full traceability, and reports yield, Pareto and Cpk. | JavaScript · Node.js · Web Serial |
+| [**Mesh Messenger**](https://github.com/sahintaha/mesh_link) | Off-grid messaging with no internet, Wi-Fi or cellular. Every phone becomes a relay in a self-healing Bluetooth Low Energy mesh. | Flutter · Dart · BLE |
+| [**Musical Notes Classification**](https://github.com/sahintaha/Musical-notes-classification) | Deep-learning model that recognises note values (whole to sixteenth) from images of sheet music. | Python · TensorFlow · Keras |
+| [**Speech to Sign Language**](https://github.com/sahintaha/Translator-of-spoken-language-into-sign-language-for-the-hearing-impaired-using-Python.) | Turns spoken language into sign language for people with hearing impairments. | Python · Speech recognition |
+
+## Tech stack
+
+[![Tech stack](https://skillicons.dev/icons?i=py,js,nodejs,dart,flutter,cpp,cs,java,arduino,opencv,tensorflow,mysql,linux,git&perline=15)](https://skillicons.dev)
